@@ -1,0 +1,5 @@
+name = "Spark the Electric Jester 3"
+home = "https://github.com/Kylogias/Spark3-Archipelago"
+
+[versions]
+"0.7.1-alpha" = { url = "https://github.com/Kylogias/Spark3-Archipelago/releases/download/v0.7.1-alpha/spark3.apworld" }
